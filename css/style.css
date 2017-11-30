@@ -1,0 +1,60 @@
+﻿/* {
+	border: 1px solid black;
+} */
+
+{
+
+
+}
+h1 {
+	text-align: center;
+	font-weight: 700;
+	color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+h2 {
+	text-align: center;
+	color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+button {
+	border-radius: 5px;
+}
+.create-column {
+	text-align: center;
+	margin: 0 auto;
+}
+.column-container {
+	display: flex;
+	margin: 0 auto;
+	
+}
+.column {
+	margin: 7px;
+	padding: 7px;
+	width: 33%;
+	background-color: #3A982B;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+ul {
+	/*list-style: none;*/
+	padding-left: 0;
+
+}
+li {
+	border-radius: 5px;
+	background-color: #D3D32F;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	text-align: right;
+}
+.card-description {
+	color: white;
+    text-align: center;
+    padding: 10px;
+}
+.btn-delete {
+	margin: 3px;
+
+
+}
