@@ -40,7 +40,7 @@ button {
 ul {
 	/*list-style: none;*/
 	padding-left: 0;
-
+	height: 100%;
 }
 li {
 	border-radius: 5px;
@@ -52,9 +52,8 @@ li {
 	color: white;
     text-align: center;
     padding: 10px;
+    word-wrap: break-word;
 }
 .btn-delete {
 	margin: 3px;
-
-
 }
